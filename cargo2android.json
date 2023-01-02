@@ -1,11 +1,3 @@
-{
-  "apex-available": [
-    "//apex_available:platform",
-    "com.android.virt"
-  ],
-  "dependencies": true,
-  "device": true,
-  "features": "channel,default,io,memchr,sink",
-  "run": true,
-  "tests": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6baad689497f628b21364909e928c509ee924db132b0b3d601aa0aed8547a7f7
+size 207
